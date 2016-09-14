@@ -21,7 +21,7 @@
 
     //Specify the Host
 	//Syntax:  $fm->setProperty('hostspec', 'http://IPAddress or http://DomainName')
-    $fm->setProperty('hostspec', 'https://fm.prodoorsystems.com');
+    $fm->setProperty('hostspec', 'localhost');
 
 
 	//To gain access to the database, use an account assigned with php privileges,
